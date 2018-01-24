@@ -5,7 +5,7 @@ navigation_weight: 1
 ---
 # Brackets Lessons Project Home Page
 
-A GitHub repo of lessons and articles specific to modern Brackets windows.
+{{ site.tagline }}
 
 ## Table O Contents
 
