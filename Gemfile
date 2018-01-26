@@ -89,7 +89,8 @@ ruby "2.4.2"
 #
 # Note. If you are planning to use 'GitHub Pages' ...
 # Then, comment out the following gem 'jekyll' after initially installing the 'Jekyll server' program to your development machine.
-# gem 'jekyll', '3.6.2'
+#
+gem 'jekyll', '3.6.2'
 #
 # When you want to use a different version of the 'Jekyll server' ...
 #
@@ -121,7 +122,8 @@ ruby "2.4.2"
 #
 # If you want the option to run 'Jekyll docs' locally ...
 # Then, enable the following line and type 'jekyll docs' from the Terminal window when you are ready to review the documentation
-# Note. The version of `Jekyll docs` must match the installed version of `Jekyll`
+# Note. The version of `Jekyll docs` must match the installed version of `Jekyll` from above
+# You must install the 'jekyll-docs' gem version = 3.6.2 to use the 'jekyll docs' command
 gem 'jekyll-docs', '3.6.2'
 #
 # The default theme for new Jekyll sites is 'jekyll-theme-minimal 0.1.0'.
